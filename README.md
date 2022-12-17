@@ -2,5 +2,5 @@
 
 ## Contact Form 
 
-Here is week 2 assignment where i creat a contact form using markdown and HTML
+Here an assignment from week 2 where i create a contact form using markdown and HTML
 
